@@ -7,6 +7,7 @@
 
 import Foundation
 
+@objcMembers
 public class Maths {
    public static func add(val1: Int, val2: Int) -> Int {
         return val1 + val2
