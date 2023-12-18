@@ -16,4 +16,8 @@ public class Maths: NSObject {
     public static func multiply(val1: Int, val2: Int) -> Int {
         return val1 * val2
     }
+   
+   public static func sub(val1: Int, val2: Int) -> Int {
+        return val1 - val2
+    }
 }
